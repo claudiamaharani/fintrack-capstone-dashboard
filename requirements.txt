@@ -1,3 +1,6 @@
-pandas
-streamlit
-plotly
+matplotlib==3.10.8
+numpy==2.4.0
+pandas==2.3.3
+streamlit==1.55.0
+DateTime==6.0
+seaborn==0.13.2
